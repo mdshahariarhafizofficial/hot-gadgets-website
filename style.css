@@ -1,0 +1,75 @@
+.main-logo{
+    width: 150px;
+}
+.bg{
+    background: #4F5255;
+}
+.container-main{
+    max-width: 1120px;
+    margin: 0 auto;
+}
+.car-section{
+    background: url(img/bg-2.png) no-repeat;
+    background-position:  left bottom;
+    background-size: 8%;
+}
+.carousel-edit h1{
+    font-size: 40px;
+    font-weight: 500;
+}
+.carousel-edit .carousel-item{
+    padding-left: 20px;
+}
+.buy-now-button{
+    box-shadow: none;
+    border: none;
+    background: #202325e0;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+.carousel-edit .carousel-indicators .active{
+    width: 45px;
+    background-image: linear-gradient(to right, #FF9C35, #FFD019);
+}
+.carousel-edit .carousel-indicators li{
+    width: 20px;
+    height: 10px;
+    border-radius: 8px;
+    border: none;
+    background: rgb(141, 137, 137);
+}
+.car-background{
+    background: url(img/bg-1.png) no-repeat;
+    background-position: left;
+    background-size: 10%;
+    padding-left: 40px;
+}
+.card-section{
+    padding-top: 60px;
+}
+.card-section img{
+    width: 230px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.card-section h5{
+    padding-bottom: 10px;
+}
+.card-head{
+    padding-bottom: 20px;
+}
+.card-head a{
+    color: #FF9D00;
+    font-size: 16px;
+    font-weight: 700;
+}
+.card-head h4{
+    font-size: 30px;
+    font-weight: 500;
+}
+.card-section .card{
+    border : none;
+    box-shadow: 0 5px 20px rgba(109, 109, 109, 0.12);
+    border-radius: 10px;
+}
